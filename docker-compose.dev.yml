@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  web:
+    build:
+      target: development
+    environment:
+      - NODE_ENV=development
+  api:
+    build:
+      target: development
+    environment:
+      - NODE_ENV=development

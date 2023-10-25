@@ -1,0 +1,32 @@
+:root {
+  /**
+  *   SPACINGS
+  *   From 0 -> 16px: 4px step
+  *   From 16px -> Infinity: 8px step
+  */
+  --spacing-4: 4px;
+  --spacing-8: 8px;
+  --spacing-12: 12px;
+  --spacing-16: 16px;
+  --spacing-20: 20px;
+  --spacing-24: 24px;
+  --spacing-26: 26px;
+  --spacing-32: 32px;
+  --spacing-40: 40px;
+  --spacing-48: 48px;
+  --spacing-56: 56px;
+  --spacing-64: 64px;
+  --spacing-72: 72px;
+  --spacing-80: 80px;
+  --spacing-88: 88px;
+  --spacing-96: 96px;
+  --spacing-104: 104px;
+  --spacing-112: 112px;
+  --spacing-120: 120px;
+  --spacing-128: 128px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
